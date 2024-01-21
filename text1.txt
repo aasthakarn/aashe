@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi i am aashe.
+=======
+I am Learning git hub
+>>>>>>> db33aebca3e4f980033dcd38340a6425e7012949
